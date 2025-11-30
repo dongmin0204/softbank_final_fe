@@ -53,6 +53,9 @@ coverage
 # Vite
 vite.config.ts.timestamp-*
 
+# Vercel
+.vercel
+
 # ESLint
 .eslintcache
 
